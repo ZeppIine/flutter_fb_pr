@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510037159336",
+    "project_id": "kimmin2-flutter-lecture",
+    "storage_bucket": "kimmin2-flutter-lecture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510037159336:android:c3842fca105ab40dce819d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQZbgjfFqqPkqj9SMqAmOZnC7WhQXjWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
